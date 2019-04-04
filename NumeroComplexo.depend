@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1554344928 source:c:\users\johna\onedrive - universidade federal de itajubá\unifei\2° período\algoritmos e estrutura de dados i\exercicios\tad\exercs_tad_johnata_thiago_eco\exercs_tad_johnata_thiago_eco\numerocomplexo\main.cpp
+	<iostream>
+	"Numero_Complexo.h"
+
+1554345621 c:\users\johna\onedrive - universidade federal de itajubá\unifei\2° período\algoritmos e estrutura de dados i\exercicios\tad\exercs_tad_johnata_thiago_eco\exercs_tad_johnata_thiago_eco\numerocomplexo\numero_complexo.h
+
+1554345587 source:c:\users\johna\onedrive - universidade federal de itajubá\unifei\2° período\algoritmos e estrutura de dados i\exercicios\tad\exercs_tad_johnata_thiago_eco\exercs_tad_johnata_thiago_eco\numerocomplexo\numero_complexo.cpp
+	<iostream>
+	<cmath>
+	"Numero_Complexo.h"
+
