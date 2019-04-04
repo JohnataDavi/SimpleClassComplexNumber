@@ -1,4 +1,4 @@
-# SimpleComplexNumber
+# Simple Class of Complex Number
 Criar uma classe que represente um tipo abstrato de dados, no caso, Numero Complexo. 
 Características:
   - Possua duas variáveis do tipo double para representar a parte real e a parte imaginária;
